@@ -38,6 +38,7 @@ Traffic-Flow-Optimization/
 
 ├── app.py
 ├── Traffic_Flow_Optimization.ipynb
+├── requirements.txt
 └── README.md
 
 ## Applications
